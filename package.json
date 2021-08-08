@@ -1,0 +1,21 @@
+{
+  "name": "slack-channel-conversation-with-web-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^6.3.0",
+    "dayjs": "^1.10.6",
+    "dotenv": "^10.0.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "@types/twit": "^2.2.30"
+  }
+}
